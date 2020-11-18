@@ -1,0 +1,162 @@
+
+#inicio{
+    background: linear-gradient(rgba(4, 54, 16, 0.602), rgba(255, 255, 255, 0.192)), url("../img/pagina-06.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#servicios h5{
+  color: rgb(54, 44, 87);
+}
+
+#servicios p{
+    color: #061551;
+}
+
+#servicios #info{
+    background: linear-gradient(rgba(123, 122, 129, 0.28), rgba(255, 255, 255, 0.192));
+}
+#servicios #reco{
+    background: linear-gradient(rgba(244, 243, 246, 0.911), rgb(255, 255, 255));
+}
+#servicios #pu{
+    background: linear-gradient(rgba(123, 122, 129, 0.28), rgba(255, 255, 255, 0.192));
+}
+
+#servicios #com{
+    background: linear-gradient(rgba(244, 243, 246, 0.911), rgb(255, 255, 255));
+}
+
+#beneficios{
+    background: linear-gradient(rgba(7, 112, 47, 0.602), rgba(18, 90, 3, 0.746)), url("../img/reunion.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+
+}
+.icon-html5:before {
+    content: "\e900";
+    color: #e34f26;
+  }
+
+  .icon-android:before {
+    content: "\e901";
+    color: #a4c639;
+  }
+
+.icon-linkedin:before {
+    content: "\e902";
+    color: #0077b5;
+    font-size: 30px;
+  }
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+.pricing-table{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pricing-table .block-heading {
+  padding-top: 50px;
+  margin-bottom: 40px;
+  text-align: center; 
+}
+
+.pricing-table .block-heading h2 {
+  color:  #061551;
+}
+
+.pricing-table .block-heading p {
+  text-align: center;
+  max-width: 420px;
+  margin: auto;
+  opacity: 0.7; 
+}
+
+.pricing-table .heading {
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
+}
+
+.pricing-table .item {
+  background-color: #ffffff;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.075);
+  border-top: 2px solid #5ea4f3;
+  padding: 30px;
+  overflow: hidden;
+  position: relative; 
+}
+
+.pricing-table .col-md-5:not(:last-child) .item {
+  margin-bottom: 30px; 
+}
+
+.pricing-table .item button {
+  font-weight: 600; 
+}
+
+.pricing-table .ribbon {
+  width: 160px;
+  height: 32px;
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  box-shadow: 0px 2px 3px rgba(136, 136, 136, 0.25);
+  background: #4dbe3b;
+  transform: rotate(45deg);
+  position: absolute;
+  right: -42px;
+  top: 20px;
+  padding-top: 7px; 
+}
+
+.pricing-table .item p {
+  text-align: center;
+  margin-top: 20px;
+  opacity: 0.7; 
+}
+
+.pricing-table .features .feature {
+  font-weight: 600; }
+
+.pricing-table .features h4 {
+  text-align: center;
+  font-size: 18px;
+  padding: 5px; 
+}
+
+.pricing-table .price h4 {
+  margin: 15px 0;
+  font-size: 45px;
+  text-align: center;
+  color: #2288f9; 
+}
+
+.pricing-table .buy-now button {
+  text-align: center;
+  margin: auto;
+  font-weight: 600;
+  padding: 9px 0; 
+}
+
+#team{
+    background: linear-gradient(rgba(2, 46, 1, 0.602), rgba(5, 143, 46, 0.746)), url("../img/medusa.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+#team a{
+    text-decoration: none;
+    color: transparent;
+}
+#pie{
+    background-color: #084400a8;
+    color: white;
+}
+#pie a{
+   text-decoration: none;
+   color: white;
+}
